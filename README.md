@@ -1,5 +1,5 @@
 # Password-based-door-lock-system
-A Project that aims to create a simple and effective and pocket friendly security system that grants access to the user upon entry of the right password (Takes in a 4 digit password and compares it to the pre-defined and pre-coded password) . It makes use of the 8051 microcontroller series and is implemented in Keil microvision. 
+A Project that aims to create a simple, effective and pocket friendly security system that grants access to the user upon entry of the right password (Takes in a 4 digit password and compares it to the pre-defined and pre-coded password) . It makes use of the 8051 microcontroller series and is implemented in Keil microvision. 
 
 The entire process can be broken down into 3 subtasks- 
 1. The software part- This involves getting our code up and running on the Keil software, debugging errors on the way.
